@@ -1,0 +1,1 @@
+# hashiconf-global-core
